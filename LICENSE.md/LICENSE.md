@@ -1,5 +1,7 @@
 Definitions: 
+
 2048 Client: This client, Our client, Our work.
+
 maxgamesNL, bizarrerutger: we, the creators, the creators of 2048, the creators of the 2048 client, us, me, I.
 
 You are allowed to download/use this client for:
@@ -8,12 +10,12 @@ You are allowed to download/use this client for:
   Private use()
   
 Modification:
+
+
   You can:
     Modify the client however you want as long as you dont remove the name.
     This means you need to make clear that it is a modified version of our client and that we coded the source code.
-  
     Combine the client with another client or mod.
-  
     For that you need to have 2048 in the name.
     For example: "2048+", "Flush 2048", "2048+Impact".
     
