@@ -1,10 +1,11 @@
 Definitions: 
 
-2048 Client: 
-This client, Our client, Our work.
+2048 Client:
+  This client, Our client, Our work.
 
-maxgamesNL, bizarrerutger: 
-we, the creators, the creators of 2048, the creators of the 2048 client, us, me, I.
+maxgamesNL, bizarrerutger:
+  we, the creators, the creators of 2048, the creators of the 2048 client, us, me, I.
+
 
 You are allowed to download/use this client for:
   Modification()
@@ -46,3 +47,4 @@ Distribution:
     Pretend that it is the original .
     Remove 2048 from the client.
     Pretend that you coded the source code.
+    Make money of our client or anything that has the 2048 client source code in it.
