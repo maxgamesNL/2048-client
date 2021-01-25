@@ -1,9 +1,11 @@
 Definitions: 
 
 2048 Client:
+
   This client, Our client, Our work.
 
 maxgamesNL, bizarrerutger:
+
   we, the creators, the creators of 2048, the creators of the 2048 client, us, me, I.
 
 
